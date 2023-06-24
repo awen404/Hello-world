@@ -2,4 +2,4 @@
 
 创建分支dev；
 
-master增加和feature分支不同的内容；
+将master分支和feature分支内容合并后并修改；
